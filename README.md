@@ -6,3 +6,4 @@
 5. [Feb 2023](https://github.com/vadafoss/daily-updates/issues/6)
 6. [Mar 2023](https://github.com/vadafoss/daily-updates/issues/7)
 7. [Apr 2023](https://github.com/vadafoss/daily-updates/issues/8)
+8. [May 2023](https://github.com/vadafoss/daily-updates/issues/9)
