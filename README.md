@@ -1,5 +1,5 @@
 # daily-updates
-1. [Sep 2023](https://github.com/vadafoss/daily-updates/issues/13
+1. [Sep 2023](https://github.com/vadafoss/daily-updates/issues/13)
 2. [Aug 2023](https://github.com/vadafoss/daily-updates/issues/12)
 3. [July 2023](https://github.com/vadafoss/daily-updates/issues/11)
 4. [June 2023](https://github.com/vadafoss/daily-updates/issues/10)
